@@ -1,10 +1,10 @@
-# In the name of Allah, the Gracious, the Merciful
+### In the name of Allah, the Gracious, the Merciful
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhassan07&count_private=true&theme=dark&show_icons=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhassan07&langs_count=10=&theme=dark"/>
+<!-- Banner Image -->
+<img src="./1762321247664.jpg" alt="Banner" style="width:100%; border-radius: 8px;" />
 
-## About Me
-Syrian-American high school student, planning to enroll in university for electrical engineering, In Sha Allah.
+# Abdullah Tarakji (عبدالله طراقجي)
+### Syrian-American high school student, planning to enroll in university for electrical engineering, In Sha Allah
 
 ---
 
@@ -13,4 +13,18 @@ Syrian-American high school student, planning to enroll in university for electr
 ### 💻 Languages  
 ![Languages](https://skills.syvixor.com/api/icons?i=c,javascript,markdown)
 
-Biliginual (English/Arabic)
+### 🧰 Software & Tools
+![Tools](https://skills.syvixor.com/api/icons?i=vscode,github,npm,arduino,android)
+
+#### Biliginual (English/Arabic)
+
+#### Electronic Circuit Design (including usage of KiCad and Ardunio)
+
+#### Electronic repair and troubleshooting
+
+---
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=abuhassan07&count_private=true&theme=dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhassan07&langs_count=10=&theme=dark"/>
